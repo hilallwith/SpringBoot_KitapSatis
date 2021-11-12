@@ -1,0 +1,8 @@
+{
+  "name": "sha-book-sat333",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
